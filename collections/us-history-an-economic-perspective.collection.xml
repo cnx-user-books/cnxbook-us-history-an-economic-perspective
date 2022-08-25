@@ -1,69 +1,22 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Institute for Humane Studies">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12216</md:content-id>
-  <md:title>US History: An Economic Perspective</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>bd062c3a-ae3d-4b68-8709-7ece63c00b00</md:uuid>
-<md:slug>us-history-an-economic-perspective</md:slug>
-</metadata>
-
+    <md:content-id>col12216</md:content-id>
+    <md:title>US History: An Economic Perspective</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>bd062c3a-ae3d-4b68-8709-7ece63c00b00</md:uuid>
+    <md:slug>us-history-an-economic-perspective</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m64394"/>
-        
-      
-    
-    
-      <col:module document="m64405"/>
-        
-      
-    
-    
-      <col:module document="m64403"/>
-        
-      
-    
-    
-      <col:module document="m64406"/>
-        
-      
-    
-    
-      <col:module document="m64398"/>
-        
-      
-    
-    
-      <col:module document="m64400"/>
-        
-      
-    
-    
-      <col:module document="m64396"/>
-        
-      
-    
-    
-      <col:module document="m64388"/>
-        
-      
-    
-    
-      <col:module document="m64392"/>
-        
-      
-    
+    <col:module document="m64394"/>
+    <col:module document="m64405"/>
+    <col:module document="m64403"/>
+    <col:module document="m64406"/>
+    <col:module document="m64398"/>
+    <col:module document="m64400"/>
+    <col:module document="m64396"/>
+    <col:module document="m64388"/>
+    <col:module document="m64392"/>
   </col:content>
 </col:collection>
